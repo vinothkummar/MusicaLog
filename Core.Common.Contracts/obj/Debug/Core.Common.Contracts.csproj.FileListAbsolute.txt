@@ -1,0 +1,5 @@
+C:\ProjectWorkSpace\Musicalog.App\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\ProjectWorkSpace\Musicalog.App\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\ProjectWorkSpace\Musicalog.App\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csproj.CoreCompileInputs.cache
+C:\ProjectWorkSpace\Musicalog.App\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\ProjectWorkSpace\Musicalog.App\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb

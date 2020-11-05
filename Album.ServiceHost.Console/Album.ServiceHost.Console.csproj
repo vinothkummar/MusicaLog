@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{807360DC-2AEF-4DE3-9804-371CA7E8B97F}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Album.ServiceHost.Console</RootNamespace>
+    <AssemblyName>Album.ServiceHost.Console</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Discovery" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core.Common\Core.Common.csproj">
+      <Project>{1e18f723-4668-4b6b-bc2a-0deac80b2c79}</Project>
+      <Name>Core.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Musicalog.Business.Bootstrapper\Musicalog.Business.Bootstrapper.csproj">
+      <Project>{fd49bfa0-8e60-4cc5-a6c2-b63ac3d1b8b4}</Project>
+      <Name>Musicalog.Business.Bootstrapper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Musicalog.Business.Contracts\Musicalog.Business.Contracts.csproj">
+      <Project>{f72fec52-ddf9-4910-a815-2014f7b158ae}</Project>
+      <Name>Musicalog.Business.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Musicalog.Business.Entities\Musicalog.Business.Entities.csproj">
+      <Project>{48ff3e63-4d4e-4556-a9dc-75c986557ae9}</Project>
+      <Name>Musicalog.Business.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Musicalog.Business.Managers\Musicalog.Business.Managers.csproj">
+      <Project>{5bbeaa53-c6a2-4131-a381-1e0609ff1b6d}</Project>
+      <Name>Musicalog.Business.Managers</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

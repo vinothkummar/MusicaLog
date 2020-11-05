@@ -1,0 +1,16 @@
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\bin\Debug\Musicalog.Client.Entities.dll
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\bin\Debug\Musicalog.Client.Entities.pdb
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\obj\Debug\Musicalog.Client.Entities.csproj.CoreCompileInputs.cache
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\obj\Debug\Musicalog.Client.Entities.dll
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\obj\Debug\Musicalog.Client.Entities.pdb
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\bin\Debug\Core.Common.dll
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\bin\Debug\FluentValidation.dll
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\bin\Debug\Core.Common.Contracts.dll
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\bin\Debug\Core.Common.pdb
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\bin\Debug\Core.Common.dll.config
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\bin\Debug\FluentValidation.xml
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\bin\Debug\Core.Common.Contracts.pdb
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\obj\Debug\Musicalog.Client.Entities.csprojAssemblyReference.cache
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\obj\Debug\Musicalog.Client.Entities.csproj.CopyComplete
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\bin\Debug\EntityFramework.dll
+C:\ProjectWorkSpace\Musicalog.App\Musicalog.Client.Entities\bin\Debug\EntityFramework.xml

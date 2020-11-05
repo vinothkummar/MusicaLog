@@ -1,0 +1,16 @@
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\obj\Debug\Core.Common.csprojAssemblyReference.cache
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\obj\Debug\Core.Common.csproj.CoreCompileInputs.cache
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\bin\Debug\Core.Common.dll.config
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\bin\Debug\Core.Common.dll
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\bin\Debug\Core.Common.pdb
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\bin\Debug\Core.Common.Contracts.dll
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\bin\Debug\EntityFramework.dll
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\bin\Debug\FluentValidation.dll
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\bin\Debug\Core.Common.Contracts.pdb
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\bin\Debug\EntityFramework.xml
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\bin\Debug\FluentValidation.xml
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\obj\Debug\Core.Common.csproj.CopyComplete
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\obj\Debug\Core.Common.dll
+C:\ProjectWorkSpace\Musicalog.App\Core.Common\obj\Debug\Core.Common.pdb
